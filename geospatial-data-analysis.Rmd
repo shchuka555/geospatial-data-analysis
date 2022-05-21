@@ -2,7 +2,7 @@
 title: "Week8-Assignment"
 author: "Keisei_Aoki"
 date: "11/28/2021"
-output: pdf_document
+output: html_document
 ---
 
 ## Part 1 
